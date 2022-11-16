@@ -4,7 +4,7 @@ This is project is file_upload fullstack project and it was created for a challe
 
 [demo](https://inspire-ethiopia-challenge.vercel.app/)
 
-![Design](https://raw.githubusercontent.com/drjseifu1991/inspire-ethiopia-challenge/master/asset/design-for-desktop-mode.png)
+![Design](https://raw.githubusercontent.com/drjseifu1991/file_upload/master/images/URL_Image.jpg)
 
 Built with:
 
