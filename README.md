@@ -2,7 +2,7 @@
 
 This is project is file_upload fullstack project and it was created for a challenge given to while I am applying for Remote Fullstack Developer.
 
-[demo](https://inspire-ethiopia-challenge.vercel.app/)
+# Screenshot
 
 ![Screenshot](https://github.com/drjseifu1991/file_upload/blob/master/images/URL_Image.jpg)
 
